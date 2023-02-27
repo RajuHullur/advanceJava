@@ -1,0 +1,9 @@
+com\xworkz\waterperifier\Configuration\WaterpurifierConfiguration.class
+com\xworkz\waterperifier\repository\WaterpurifierRepoImpl.class
+com\xworkz\waterperifier\Service\WaterpurifierService.class
+com\xworkz\waterperifier\EntityDTO\WaterpurifierEntityDTO.class
+com\xworkz\waterperifier\Configuration\WaterPurifierWebInit.class
+com\xworkz\waterperifier\Controller\WaterpurifierController.class
+com\xworkz\waterperifier\repository\WaterpurifierRepo.class
+com\xworkz\waterperifier\WaterpurifierDTO\WaterpurifierDTO.class
+com\xworkz\waterperifier\Service\WaterpurifierServiceImpl.class

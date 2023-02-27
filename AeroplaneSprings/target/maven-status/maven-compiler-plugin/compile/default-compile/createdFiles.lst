@@ -1,0 +1,9 @@
+com\zworkz\areoplane\service\AeroplaneServiceImpl.class
+com\zworkz\areoplane\repository\AeroplaneRepoImpl.class
+com\zworkz\areoplane\entityDTO\AeroplaneEntityDTO.class
+com\zworkz\areoplane\service\AeroplaneService.class
+com\zworkz\areoplane\configuration\AeroplaneConfiguration.class
+com\zworkz\areoplane\dto\AeroplaneDTO.class
+com\zworkz\areoplane\configuration\AeroplaneWebInit.class
+com\zworkz\areoplane\controller\AeroplaneController.class
+com\zworkz\areoplane\repository\AeroplaneRepo.class
